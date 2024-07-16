@@ -1,7 +1,7 @@
 # https://docs.python.org/3/library/exceptions.html
 
 import sys 
-import logging
+from src.logger import logging
 
 # custom ex exception handling: https://docs.python.org/3/tutorial/errors.html
 
