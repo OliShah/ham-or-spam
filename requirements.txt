@@ -5,4 +5,10 @@ seaborn
 matplotlib
 dill
 
+catboost
+xgboost
+DecisionTree 
+
+Flask
+
 #-e .
